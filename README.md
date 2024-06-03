@@ -24,6 +24,3 @@ Please cite our paper if you find this code useful for your research.
 }
 ```
 
-## Acknowledgement
-
-I would like to express my sincere appreciation to the authors of the [GitHub - QinbinLi/MOON: Model-Contrastive Federated Learning (CVPR 2021)](https://github.com/QinbinLi/MOON)) for their substantial contributions. 
